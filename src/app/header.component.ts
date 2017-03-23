@@ -1,5 +1,6 @@
 import { Component
  } from '@angular/core';
+ import { DropdownDirective } from "./dropdown.directive";
 
 @Component({
   selector: 'rb-header',
